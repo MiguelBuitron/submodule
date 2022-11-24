@@ -1,0 +1,3 @@
+[submodule "hyperblog"]
+	path = hyperblog
+	url = https://github.com/MiguelBuitron/hyperblog.git
